@@ -1,0 +1,393 @@
+"","Sex","block_id","Sport","Age","Recovery Time (Days)","Future MSI","MSI Type","Days to Future MSI","Group","Sport Type","Future MSI Location"
+"1","Female",1,"Basketball",21.01,31,1,"Acute",221,"SRC","Contact","Upper Body"
+"2","Female",1,"Basketball",18.39,NA,1,"Chronic",277,"MSI","Contact","Upper Body"
+"3","Female",1,"Basketball",22.85,NA,1,"Acute",0,"Healthy Control","Contact","Upper Body"
+"4","Female",1,"Basketball",20.32,NA,0,NA,NA,"Healthy Control","Contact",NA
+"5","Female",2,"Basketball",18.74,18,1,"Acute",73,"SRC","Contact","Upper Body"
+"6","Female",2,"Basketball",20.26,NA,1,"Chronic",79,"MSI","Contact","Lower Body"
+"7","Female",2,"Basketball",18.25,NA,1,"Acute",300,"Healthy Control","Contact","Lower Body"
+"8","Female",2,"Basketball",18.45,NA,0,NA,NA,"Healthy Control","Contact",NA
+"9","Male",3,"Football",20.4,15,1,"Acute",238,"SRC","Collision","Lower Body"
+"10","Male",3,"Football",21.64,NA,1,"Acute",191,"MSI","Collision","Upper Body"
+"11","Male",3,"Football",21.24,NA,0,NA,NA,"Healthy Control","Collision",NA
+"12","Male",3,"Football",20.24,NA,1,"Acute",161,"Healthy Control","Collision","Upper Body"
+"13","Male",4,"Football",21.38,12,1,"Acute",100,"SRC","Collision","Lower Body"
+"14","Male",4,"Football",22.32,NA,0,NA,NA,"MSI","Collision",NA
+"15","Male",4,"Football",21.42,NA,0,NA,NA,"Healthy Control","Collision",NA
+"16","Male",4,"Football",17.98,NA,0,NA,NA,"Healthy Control","Collision",NA
+"17","Male",5,"Football",18.35,18,1,"Chronic",153,"SRC","Collision","Upper Body"
+"18","Male",5,"Football",18.7,NA,1,"Chronic",59,"MSI","Collision","Lower Body"
+"19","Male",5,"Football",20.84,NA,0,NA,NA,"Healthy Control","Collision",NA
+"20","Male",5,"Football",21.59,NA,0,NA,NA,"Healthy Control","Collision",NA
+"21","Male",6,"Hockey",21.13,10,1,"Acute",252,"SRC","Collision","Lower Body"
+"22","Male",6,"Hockey",20.73,NA,1,"Acute",261,"MSI","Collision","Upper Body"
+"23","Male",6,"Hockey",22.44,NA,0,NA,NA,"Healthy Control","Collision",NA
+"24","Male",6,"Hockey",23.83,NA,1,"Acute",87,"Healthy Control","Collision","Upper Body"
+"25","Female",7,"Hockey",19.75,18,1,"Acute",13,"SRC","Contact","Lower Body"
+"26","Female",7,"Hockey",19.34,NA,1,"Acute",356,"MSI","Contact","Lower Body"
+"27","Female",7,"Hockey",19.61,NA,1,"Chronic",29,"Healthy Control","Contact","Lower Body"
+"28","Female",7,"Hockey",19.71,NA,0,NA,NA,"Healthy Control","Contact",NA
+"29","Male",8,"Lacrosse",26.31,10,1,"Acute",348,"SRC","Collision","Lower Body"
+"30","Male",8,"Lacrosse",21.16,NA,1,"Acute",344,"MSI","Collision","Lower Body"
+"31","Male",8,"Lacrosse",21.48,NA,1,"Chronic",40,"Healthy Control","Collision","Upper Body"
+"32","Male",8,"Lacrosse",18.7,NA,0,NA,NA,"Healthy Control","Collision",NA
+"33","Female",9,"Lacrosse",23.47,93,1,"Chronic",72,"SRC","Contact","Lower Body"
+"34","Female",9,"Soccer",20.1,NA,1,"Acute",18,"MSI","Contact","Lower Body"
+"35","Female",9,"Lacrosse",21.15,NA,1,"Acute",175,"Healthy Control","Contact","Upper Body"
+"36","Female",9,"Lacrosse",21.37,NA,0,NA,NA,"Healthy Control","Contact",NA
+"37","Male",10,"Rugby",19.31,50,1,"Acute",286,"SRC","Collision","Upper Body"
+"38","Male",10,"Rugby",19.83,NA,0,NA,NA,"MSI","Collision",NA
+"39","Male",10,"Rugby",17.78,NA,1,"Acute",92,"Healthy Control","Collision","Upper Body"
+"40","Male",10,"Rugby",17.78,NA,0,NA,NA,"Healthy Control","Collision",NA
+"41","Male",12,"Rugby",19.32,45,1,"Acute",269,"SRC","Collision","Lower Body"
+"42","Male",12,"Rugby",18.41,NA,1,"Chronic",216,"MSI","Collision","Lower Body"
+"43","Male",12,"Rugby",21.23,NA,0,NA,NA,"Healthy Control","Collision",NA
+"44","Male",12,"Rugby",20.12,NA,0,NA,NA,"Healthy Control","Collision",NA
+"45","Female",13,"Rugby",20.45,8,1,"Acute",16,"SRC","Collision","Upper Body"
+"46","Female",13,"Rugby",20.13,NA,1,"Acute",204,"MSI","Collision","Upper Body"
+"47","Female",13,"Rugby",18.03,NA,0,NA,NA,"Healthy Control","Collision",NA
+"48","Female",13,"Rugby",18.28,NA,0,NA,NA,"Healthy Control","Collision",NA
+"49","Female",14,"Rugby",18.33,10,1,"Acute",6,"SRC","Collision","Lower Body"
+"50","Female",14,"Rugby",19.07,NA,1,"Chronic",104,"MSI","Collision","Lower Body"
+"51","Female",14,"Rugby",18.53,NA,0,NA,NA,"Healthy Control","Collision",NA
+"52","Female",14,"Rugby",19.57,NA,0,NA,NA,"Healthy Control","Collision",NA
+"53","Female",15,"Rugby",18.7,173,1,"Acute",3,"SRC","Collision","Lower Body"
+"54","Female",15,"Rugby",18.5,NA,1,"Acute",128,"MSI","Collision","Lower Body"
+"55","Female",15,"Rugby",19.89,NA,1,"Chronic",49,"Healthy Control","Collision","Lower Body"
+"56","Female",15,"Rugby",19.96,NA,1,"Acute",138,"Healthy Control","Collision","Upper Body"
+"57","Male",16,"Soccer",17.7,7,1,"Acute",161,"SRC","Contact","Lower Body"
+"58","Male",16,"Soccer",20.59,NA,1,"Acute",54,"MSI","Contact","Lower Body"
+"59","Male",16,"Soccer",20.07,NA,0,NA,NA,"Healthy Control","Contact",NA
+"60","Male",16,"Soccer",20.48,NA,1,"Acute",10,"Healthy Control","Contact","Lower Body"
+"61","Female",17,"Volleyball",21.15,12,1,"Chronic",86,"SRC","Non Contact","Lower Body"
+"62","Female",17,"Volleyball",18.32,NA,1,"Chronic",24,"MSI","Non Contact","Upper Body"
+"63","Female",17,"Volleyball",18.06,NA,1,"Acute",57,"Healthy Control","Non Contact","Upper Body"
+"64","Female",17,"Volleyball",18.84,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"65","Female",18,"Track and Field",23.28,16,1,"Chronic",28,"SRC","Non Contact","Lower Body"
+"66","Female",18,"Track and Field",19.79,NA,1,"Chronic",111,"MSI","Non Contact","Lower Body"
+"67","Female",18,"Track and Field",18.48,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"68","Female",18,"Track and Field",21.06,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"69","Female",19,"Volleyball",18.53,8,1,"Acute",212,"SRC","Non Contact","Upper Body"
+"70","Female",19,"Volleyball",18.95,NA,1,"Acute",335,"MSI","Non Contact","Lower Body"
+"71","Female",19,"Volleyball",18.54,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"72","Female",19,"Volleyball",18.56,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"73","Female",20,"Volleyball",21.39,33,1,"Chronic",274,"SRC","Non Contact","Upper Body"
+"74","Female",20,"Track and Field",21.15,NA,1,"Acute",178,"MSI","Non Contact","Upper Body"
+"75","Female",20,"Volleyball",18.38,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"76","Female",20,"Badminton",24.84,NA,1,"Acute",262,"Healthy Control","Non Contact","Upper Body"
+"77","Female",21,"Waterpolo",20.5,38,0,NA,NA,"SRC","Non Contact",NA
+"78","Female",21,"Swimming",18.86,NA,0,NA,NA,"MSI","Non Contact",NA
+"79","Female",21,"Waterpolo",18.64,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"80","Female",21,"Waterpolo",18.78,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"81","Female",22,"Waterpolo",18.65,80,0,NA,NA,"SRC","Non Contact",NA
+"82","Female",22,"Swimming",20.14,NA,0,NA,NA,"MSI","Non Contact",NA
+"83","Female",22,"Waterpolo",19.76,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"84","Female",22,"Waterpolo",20.65,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"85","Female",23,"Basketball",19.39,29,1,"Acute",306,"SRC","Contact","Upper Body"
+"86","Female",23,"Basketball",20.02,NA,1,"Acute",197,"MSI","Contact","Upper Body"
+"87","Female",23,"Basketball",19.88,NA,1,"Acute",229,"Healthy Control","Contact","Lower Body"
+"88","Female",23,"Basketball",20,NA,1,"Acute",125,"Healthy Control","Contact","Lower Body"
+"89","Female",24,"Fastpitch",21.43,93,0,NA,NA,"SRC","Non Contact",NA
+"90","Female",24,"Field Hockey",19.66,NA,1,"Chronic",171,"MSI","Non Contact","Lower Body"
+"91","Female",24,"Fastpitch",20,NA,1,"Acute",150,"Healthy Control","Non Contact","Lower Body"
+"92","Female",24,"Fastpitch",19.96,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"93","Female",25,"Fastpitch",25.62,30,0,NA,NA,"SRC","Non Contact",NA
+"94","Female",25,"Swimming",22.75,NA,1,"Chronic",145,"MSI","Non Contact","Lower Body"
+"95","Female",25,"Fastpitch",19.57,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"96","Female",25,"Fastpitch",20.17,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"97","Female",26,"Figure Skating",20.04,26,1,"Acute",289,"SRC","Non Contact","Upper Body"
+"98","Female",26,"Figure Skating",21.1,NA,1,"Chronic",263,"MSI","Non Contact","Lower Body"
+"99","Female",26,"Figure Skating",22.26,NA,1,"Chronic",254,"Healthy Control","Non Contact","Upper Body"
+"100","Female",26,"Figure Skating",19.4,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"101","Male",27,"Hockey",22.54,28,1,"Chronic",139,"SRC","Collision","Upper Body"
+"102","Male",27,"Hockey",23.55,NA,1,"Chronic",112,"MSI","Collision","Lower Body"
+"103","Male",27,"Hockey",22.69,NA,1,"Acute",80,"Healthy Control","Collision","Upper Body"
+"104","Male",27,"Hockey",23.81,NA,1,"Chronic",249,"Healthy Control","Collision","Upper Body"
+"105","Male",28,"Hockey",20.82,6,1,"Acute",22,"SRC","Collision","Upper Body"
+"106","Male",28,"Hockey",21.59,NA,0,NA,NA,"MSI","Collision",NA
+"107","Male",28,"Hockey",24.29,NA,1,"Acute",0,"Healthy Control","Collision","Lower Body"
+"108","Male",28,"Hockey",24.44,NA,1,"Acute",76,"Healthy Control","Collision","Upper Body"
+"109","Female",29,"Hockey",20.99,2,1,"Acute",221,"SRC","Contact","Lower Body"
+"110","Female",29,"Hockey",21.11,NA,0,NA,NA,"MSI","Contact",NA
+"111","Female",29,"Hockey",18.29,NA,1,"Acute",254,"Healthy Control","Contact","Lower Body"
+"112","Female",29,"Hockey",21.52,NA,0,NA,NA,"Healthy Control","Contact",NA
+"113","Female",30,"Rowing",20.25,14,1,"Chronic",94,"SRC","Non Contact","Upper Body"
+"114","Female",30,"Basketball",17.6,NA,1,"Acute",180,"MSI","Contact","Upper Body"
+"115","Female",30,"Rowing",21.43,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"116","Female",30,"Rowing",21,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"117","Female",31,"Rugby",20.08,136,1,"Acute",35,"SRC","Collision","Upper Body"
+"118","Female",31,"Rugby",19.89,NA,1,"Acute",209,"MSI","Collision","Lower Body"
+"119","Female",31,"Rugby",19.07,NA,1,"Acute",156,"Healthy Control","Collision","Lower Body"
+"120","Female",31,"Rugby",19.33,NA,1,"Acute",221,"Healthy Control","Collision","Lower Body"
+"121","Female",32,"Volleyball",18.72,6,1,"Acute",22,"SRC","Non Contact","Upper Body"
+"122","Female",32,"Track and Field",20.41,NA,1,"Acute",84,"MSI","Non Contact","Upper Body"
+"123","Female",32,"Volleyball",18.56,NA,1,"Chronic",341,"Healthy Control","Non Contact","Lower Body"
+"124","Female",32,"Volleyball",19.25,NA,1,"Acute",243,"Healthy Control","Non Contact","Upper Body"
+"125","Female",33,"Volleyball",20.28,14,1,"Chronic",150,"SRC","Non Contact","Upper Body"
+"126","Female",33,"Basketball",21.28,NA,1,"Chronic",285,"MSI","Contact","Lower Body"
+"127","Female",33,"Basketball",20.47,NA,0,NA,NA,"Healthy Control","Contact",NA
+"128","Female",33,"Basketball",21.25,NA,0,NA,NA,"Healthy Control","Contact",NA
+"129","Male",34,"Baseball",18.63,15,1,"Acute",16,"SRC","Non Contact","Upper Body"
+"130","Male",34,"Tennis",17.78,NA,1,"Chronic",326,"MSI","Non Contact","Upper Body"
+"131","Male",34,"Baseball",20.84,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"132","Male",34,"Baseball",20.53,NA,1,"Acute",323,"Healthy Control","Non Contact","Lower Body"
+"133","Female",35,"Fencing",17.87,20,1,"Acute",89,"SRC","Non Contact","Lower Body"
+"134","Female",35,"Badminton",20.14,NA,0,NA,NA,"MSI","Non Contact",NA
+"135","Female",35,"Fencing",22.95,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"136","Female",35,"Fencing",19.81,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"137","Male",36,"Football",20.89,11,1,"Chronic",221,"SRC","Collision","Lower Body"
+"138","Male",36,"Football",22.39,NA,1,"Acute",8,"MSI","Collision","Lower Body"
+"139","Male",36,"Football",19.85,NA,1,"Acute",43,"Healthy Control","Collision","Upper Body"
+"140","Male",36,"Football",19.54,NA,1,"Acute",22,"Healthy Control","Collision","Upper Body"
+"141","Male",37,"Football",22.34,8,1,"Acute",2,"SRC","Collision","Lower Body"
+"142","Male",37,"Football",19.25,NA,1,"Acute",356,"MSI","Collision","Lower Body"
+"143","Male",37,"Football",21.22,NA,1,"Chronic",264,"Healthy Control","Collision","Lower Body"
+"144","Male",37,"Football",19.22,NA,1,"Acute",339,"Healthy Control","Collision","Upper Body"
+"145","Female",38,"Hockey",22.08,22,1,"Acute",169,"SRC","Contact","Lower Body"
+"146","Female",38,"Hockey",19.65,NA,1,"Acute",217,"MSI","Contact","Upper Body"
+"147","Female",38,"Hockey",22.19,NA,1,"Chronic",197,"Healthy Control","Contact","Upper Body"
+"148","Female",38,"Hockey",23.66,NA,0,NA,NA,"Healthy Control","Contact",NA
+"149","Male",39,"Lacrosse",20.23,20,1,"Chronic",339,"SRC","Collision","Lower Body"
+"150","Male",39,"Lacrosse",18.38,NA,1,"Acute",331,"MSI","Collision","Upper Body"
+"151","Male",39,"Lacrosse",20.56,NA,1,"Chronic",308,"Healthy Control","Collision","Lower Body"
+"152","Male",39,"Lacrosse",18.68,NA,1,"Chronic",328,"Healthy Control","Collision","Upper Body"
+"153","Male",40,"Lacrosse",19.26,NA,1,"Acute",107,"SRC","Collision","Upper Body"
+"154","Male",40,"Hockey",21.99,NA,1,"Acute",205,"MSI","Collision","Upper Body"
+"155","Male",40,"Lacrosse",22.63,NA,0,NA,NA,"Healthy Control","Collision",NA
+"156","Male",40,"Lacrosse",19.21,NA,1,"Acute",170,"Healthy Control","Collision","Upper Body"
+"157","Female",41,"Tennis",23.99,7,0,NA,NA,"SRC","Non Contact",NA
+"158","Female",41,"Rowing",18.99,NA,1,"Chronic",161,"MSI","Non Contact","Upper Body"
+"159","Female",41,"Tennis",19.58,NA,1,"Chronic",101,"Healthy Control","Non Contact","Upper Body"
+"160","Female",41,"Tennis",26.18,NA,1,"Chronic",93,"Healthy Control","Non Contact","Lower Body"
+"161","Female",42,"Volleyball",17.91,10,1,"Acute",20,"SRC","Non Contact","Lower Body"
+"162","Female",42,"Soccer",18.71,NA,1,"Acute",307,"MSI","Contact","Lower Body"
+"163","Female",42,"Volleyball",17.93,NA,1,"Chronic",100,"Healthy Control","Non Contact","Upper Body"
+"164","Female",42,"Volleyball",19.66,NA,1,"Acute",247,"Healthy Control","Non Contact","Upper Body"
+"165","Female",43,"Volleyball",18.01,64,1,"Acute",23,"SRC","Non Contact","Upper Body"
+"166","Female",43,"Figure Skating",19.74,NA,0,NA,NA,"MSI","Non Contact",NA
+"167","Female",43,"Basketball",18.19,NA,1,"Chronic",206,"Healthy Control","Contact","Lower Body"
+"168","Female",43,"Volleyball",20.9,NA,1,"Acute",42,"Healthy Control","Non Contact","Upper Body"
+"169","Male",44,"Waterpolo",17.39,60,0,NA,NA,"SRC","Non Contact",NA
+"170","Male",44,"Soccer",19.27,NA,0,NA,NA,"MSI","Contact",NA
+"171","Male",44,"Waterpolo",20.19,NA,1,"Chronic",256,"Healthy Control","Non Contact","Upper Body"
+"172","Male",44,"Waterpolo",18.8,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"173","Male",45,"Lacrosse",19.25,247,0,NA,NA,"SRC","Collision",NA
+"174","Male",45,"Lacrosse",18.65,NA,1,"Chronic",86,"MSI","Collision","Lower Body"
+"175","Male",45,"Lacrosse",17.94,NA,0,NA,NA,"Healthy Control","Collision",NA
+"176","Male",45,"Lacrosse",20.52,NA,0,NA,NA,"Healthy Control","Collision",NA
+"177","Male",46,"Football",20.43,5,1,"Acute",117,"SRC","Collision","Lower Body"
+"178","Male",46,"Football",23,NA,1,"Acute",5,"MSI","Collision","Upper Body"
+"179","Male",46,"Football",22.59,NA,1,"Chronic",168,"Healthy Control","Collision","Lower Body"
+"180","Male",46,"Football",22.8,NA,1,"Acute",2,"Healthy Control","Collision","Lower Body"
+"181","Male",47,"Football",21.39,75,1,"Acute",269,"SRC","Collision","Lower Body"
+"182","Male",47,"Football",20.51,NA,1,"Acute",291,"MSI","Collision","Lower Body"
+"183","Male",47,"Football",22.88,NA,1,"Acute",253,"Healthy Control","Collision","Upper Body"
+"184","Male",47,"Football",19.67,NA,1,"Acute",68,"Healthy Control","Collision","Lower Body"
+"185","Male",48,"Hockey",22.91,24,1,"Acute",246,"SRC","Collision","Upper Body"
+"186","Male",48,"Lacrosse",21.39,NA,0,NA,NA,"MSI","Collision",NA
+"187","Male",48,"Hockey",24.53,NA,1,"Acute",83,"Healthy Control","Collision","Lower Body"
+"188","Male",48,"Hockey",23.33,NA,0,NA,NA,"Healthy Control","Collision",NA
+"189","Female",49,"Hockey",21.8,23,0,NA,NA,"SRC","Contact",NA
+"190","Female",49,"Hockey",19.12,NA,1,"Acute",348,"MSI","Contact","Upper Body"
+"191","Female",49,"Hockey",20.39,NA,1,"Acute",245,"Healthy Control","Contact","Lower Body"
+"192","Female",49,"Hockey",18.66,NA,1,"Chronic",287,"Healthy Control","Contact","Upper Body"
+"193","Male",50,"Hockey",22.11,31,1,"Acute",295,"SRC","Collision","Lower Body"
+"194","Male",50,"Football",20.94,NA,0,NA,NA,"MSI","Collision",NA
+"195","Male",50,"Hockey",20.66,NA,1,"Acute",324,"Healthy Control","Collision","Lower Body"
+"196","Male",50,"Hockey",23.01,NA,0,NA,NA,"Healthy Control","Collision",NA
+"197","Male",51,"Lacrosse",25.56,206,1,"Chronic",328,"SRC","Collision","Lower Body"
+"198","Male",51,"Hockey",23.18,NA,1,"Acute",192,"MSI","Collision","Upper Body"
+"199","Male",51,"Lacrosse",19.3,NA,0,NA,NA,"Healthy Control","Collision",NA
+"200","Male",51,"Lacrosse",29.39,NA,1,"Acute",136,"Healthy Control","Collision","Lower Body"
+"201","Female",52,"Lacrosse",21.88,62,1,"Acute",229,"SRC","Contact","Lower Body"
+"202","Female",52,"Track and Field",20.2,NA,0,NA,NA,"MSI","Non Contact",NA
+"203","Female",52,"Lacrosse",20.56,NA,0,NA,NA,"Healthy Control","Contact",NA
+"204","Female",52,"Lacrosse",20.63,NA,1,"Acute",97,"Healthy Control","Contact","Upper Body"
+"205","Male",53,"Rugby",19.61,15,1,"Acute",113,"SRC","Collision","Lower Body"
+"206","Male",53,"Rugby",20.73,NA,1,"Acute",31,"MSI","Collision","Lower Body"
+"207","Male",53,"Rugby",17.96,NA,1,"Chronic",169,"Healthy Control","Collision","Upper Body"
+"208","Male",53,"Rugby",17.13,NA,0,NA,NA,"Healthy Control","Collision",NA
+"209","Female",54,"Rugby",21.52,5,1,"Chronic",285,"SRC","Collision","Lower Body"
+"210","Female",54,"Rugby",20.82,NA,1,"Acute",316,"MSI","Collision","Lower Body"
+"211","Female",54,"Rugby",18.17,NA,1,"Acute",37,"Healthy Control","Collision","Lower Body"
+"212","Female",54,"Rugby",21.21,NA,1,"Acute",29,"Healthy Control","Collision","Lower Body"
+"213","Male",55,"Volleyball",18.8,27,1,"Chronic",213,"SRC","Non Contact","Lower Body"
+"214","Male",55,"Volleyball",18.1,NA,1,"Chronic",273,"MSI","Non Contact","Upper Body"
+"215","Male",55,"Volleyball",18.76,NA,1,"Acute",140,"Healthy Control","Non Contact","Upper Body"
+"216","Male",55,"Volleyball",18.29,NA,1,"Acute",69,"Healthy Control","Non Contact","Lower Body"
+"217","Female",56,"Waterpolo",20.16,52,0,NA,NA,"SRC","Non Contact",NA
+"218","Female",56,"Swimming",18.73,NA,0,NA,NA,"MSI","Non Contact",NA
+"219","Female",56,"Waterpolo",19.84,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"220","Female",56,"Waterpolo",18.1,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"221","Female",57,"Lacrosse",18.48,17,1,"Acute",11,"SRC","Contact","Lower Body"
+"222","Female",57,"Lacrosse",24.74,NA,1,"Acute",1,"MSI","Contact","Lower Body"
+"223","Female",57,"Lacrosse",22.4,NA,1,"Acute",348,"Healthy Control","Contact","Upper Body"
+"224","Female",57,"Lacrosse",20.67,NA,1,"Chronic",310,"Healthy Control","Contact","Lower Body"
+"225","Female",58,"Soccer",18.99,8,1,"Acute",209,"SRC","Contact","Lower Body"
+"226","Female",58,"Soccer",18.35,NA,1,"Acute",344,"MSI","Contact","Lower Body"
+"227","Female",58,"Soccer",19.66,NA,1,"Acute",181,"Healthy Control","Contact","Lower Body"
+"228","Female",58,"Soccer",20.41,NA,1,"Acute",259,"Healthy Control","Contact","Lower Body"
+"229","Female",59,"Field Hockey",18.88,20,0,NA,NA,"SRC","Contact",NA
+"230","Female",59,"Field Hockey",24.55,NA,1,"Chronic",17,"MSI","Contact","Lower Body"
+"231","Female",59,"Lacrosse",17.91,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"232","Female",59,"Field Hockey",18.13,NA,0,NA,NA,"Healthy Control","Contact",NA
+"233","Male",60,"Hockey",21.06,20,1,"Acute",37,"SRC","Collision","Lower Body"
+"234","Male",60,"Hockey",24.65,NA,1,"Acute",275,"MSI","Collision","Upper Body"
+"235","Male",60,"Hockey",21.18,NA,0,NA,NA,"Healthy Control","Collision",NA
+"236","Male",60,"Hockey",22.81,NA,1,"Acute",323,"Healthy Control","Collision","Upper Body"
+"237","Female",61,"Field Hockey",20.41,83,1,"Chronic",106,"SRC","Contact","Lower Body"
+"238","Female",61,"Soccer",20.64,NA,0,NA,NA,"MSI","Contact",NA
+"239","Female",61,"Field Hockey",20.67,NA,0,NA,NA,"Healthy Control","Contact",NA
+"240","Female",61,"Field Hockey",19.14,NA,1,"Chronic",114,"Healthy Control","Contact","Lower Body"
+"241","Male",62,"Football",21.24,76,0,NA,NA,"SRC","Collision",NA
+"242","Male",62,"Football",23.8,NA,1,"Acute",241,"MSI","Collision","Lower Body"
+"243","Male",62,"Football",19.59,NA,1,"Chronic",70,"Healthy Control","Collision","Lower Body"
+"244","Male",62,"Football",15.98,NA,0,NA,NA,"Healthy Control","Collision",NA
+"245","Male",11,"Football",22.3,14,1,"Acute",149,"SRC","Collision","Upper Body"
+"246","Male",11,"Football",21.08,NA,1,"Acute",35,"MSI","Collision","Lower Body"
+"247","Male",11,"Football",20.17,NA,1,"Acute",347,"Healthy Control","Collision","Lower Body"
+"248","Male",11,"Football",18.79,NA,1,"Acute",21,"Healthy Control","Collision","Lower Body"
+"249","Female",63,"Hockey",19.32,10,1,"Acute",52,"SRC","Contact","Lower Body"
+"250","Female",63,"Hockey",21.27,NA,1,"Acute",329,"MSI","Contact","Upper Body"
+"251","Female",63,"Hockey",18.07,NA,0,NA,NA,"Healthy Control","Contact",NA
+"252","Female",63,"Hockey",21.27,NA,1,"Acute",339,"Healthy Control","Contact","Upper Body"
+"253","Male",64,"Rugby",21.19,44,0,NA,NA,"SRC","Collision",NA
+"254","Male",64,"Rugby",18.19,NA,1,"Acute",104,"MSI","Collision","Lower Body"
+"255","Male",64,"Rugby",20.31,NA,1,"Acute",307,"Healthy Control","Collision","Upper Body"
+"256","Male",64,"Rugby",18.1,NA,0,NA,NA,"Healthy Control","Collision",NA
+"257","Male",65,"Swimming",20.92,16,1,"Chronic",281,"SRC","Non Contact","Lower Body"
+"258","Male",65,"Swimming",20.69,NA,0,NA,NA,"MSI","Non Contact",NA
+"259","Male",65,"Swimming",18.84,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"260","Male",65,"Swimming",20.35,NA,1,"Acute",253,"Healthy Control","Non Contact","Lower Body"
+"261","Male",66,"Soccer",20.78,17,1,"Acute",19,"SRC","Contact","Upper Body"
+"262","Male",66,"Soccer",20.17,NA,1,"Acute",127,"MSI","Contact","Lower Body"
+"263","Male",66,"Soccer",19.47,NA,0,NA,NA,"Healthy Control","Contact",NA
+"264","Male",66,"Soccer",20.61,NA,0,NA,NA,"Healthy Control","Contact",NA
+"265","Male",67,"Soccer",20.92,5,1,"Acute",249,"SRC","Contact","Lower Body"
+"266","Male",67,"Soccer",20.75,NA,1,"Acute",200,"MSI","Contact","Lower Body"
+"267","Male",67,"Soccer",18.94,NA,1,"Acute",169,"Healthy Control","Contact","Lower Body"
+"268","Male",67,"Soccer",21.01,NA,1,"Acute",354,"Healthy Control","Contact","Lower Body"
+"269","Male",68,"Football",19.98,105,1,"Acute",261,"SRC","Collision","Upper Body"
+"270","Male",68,"Football",18.99,NA,1,"Acute",235,"MSI","Collision","Upper Body"
+"271","Male",68,"Football",22.54,NA,1,"Acute",254,"Healthy Control","Collision","Upper Body"
+"272","Male",68,"Football",20.66,NA,1,"Acute",81,"Healthy Control","Collision","Lower Body"
+"273","Male",69,"Rugby",18.39,123,1,"Acute",30,"SRC","Collision","Lower Body"
+"274","Male",69,"Rugby",17.83,NA,1,"Acute",214,"MSI","Collision","Upper Body"
+"275","Male",69,"Rugby",20.21,NA,0,NA,NA,"Healthy Control","Collision",NA
+"276","Male",69,"Rugby",24.62,NA,0,NA,NA,"Healthy Control","Collision",NA
+"277","Male",70,"Lacrosse",19.1,9,1,"Acute",109,"SRC","Collision","Lower Body"
+"278","Male",70,"Lacrosse",18.35,NA,0,NA,NA,"MSI","Collision",NA
+"279","Male",70,"Lacrosse",19.16,NA,0,NA,NA,"Healthy Control","Collision",NA
+"280","Male",70,"Lacrosse",18.19,NA,1,"Acute",157,"Healthy Control","Collision","Upper Body"
+"281","Male",71,"Mountain Biking",20.87,14,1,"Acute",2,"SRC","Non Contact","Upper Body"
+"282","Male",71,"Mountain Biking",20.74,NA,0,NA,NA,"MSI","Non Contact",NA
+"283","Male",71,"Mountain Biking",19.11,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"284","Male",71,"Mountain Biking",18.94,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"285","Male",72,"Football",20.9,40,1,"Acute",87,"SRC","Collision","Upper Body"
+"286","Male",72,"Football",18.84,NA,1,"Chronic",88,"MSI","Collision","Lower Body"
+"287","Male",72,"Football",19.25,NA,1,"Acute",327,"Healthy Control","Collision","Lower Body"
+"288","Male",72,"Football",19.4,NA,1,"Acute",321,"Healthy Control","Collision","Upper Body"
+"289","Male",73,"Football",21.1,103,1,"Acute",44,"SRC","Collision","Upper Body"
+"290","Male",73,"Football",19.66,NA,1,"Acute",54,"MSI","Collision","Lower Body"
+"291","Male",73,"Football",20.92,NA,0,NA,NA,"Healthy Control","Collision",NA
+"292","Male",73,"Football",19.95,NA,1,"Acute",71,"Healthy Control","Collision","Lower Body"
+"293","Female",74,"Hockey",18.57,55,1,"Acute",329,"SRC","Contact","Upper Body"
+"294","Female",74,"Hockey",21.84,NA,1,"Acute",345,"MSI","Contact","Upper Body"
+"295","Female",74,"Hockey",19.52,NA,0,NA,NA,"Healthy Control","Contact",NA
+"296","Female",74,"Hockey",20.18,NA,1,"Acute",120,"Healthy Control","Contact","Lower Body"
+"297","Male",75,"Football",20.84,124,1,"Acute",214,"SRC","Collision","Lower Body"
+"298","Male",75,"Football",18.59,NA,1,"Acute",200,"MSI","Collision","Lower Body"
+"299","Male",75,"Football",22.54,NA,1,"Acute",186,"Healthy Control","Collision","Lower Body"
+"300","Male",75,"Football",18.26,NA,1,"Acute",12,"Healthy Control","Collision","Lower Body"
+"301","Male",76,"Rugby",20.08,12,1,"Acute",353,"SRC","Collision","Upper Body"
+"302","Male",76,"Rugby",20.26,NA,1,"Acute",331,"MSI","Collision","Upper Body"
+"303","Male",76,"Football",20.83,NA,1,"Acute",60,"Healthy Control","Collision","Lower Body"
+"304","Male",76,"Rugby",18.02,NA,1,"Acute",324,"Healthy Control","Collision","Lower Body"
+"305","Male",77,"Hockey",20.96,61,1,"Acute",236,"SRC","Collision","Upper Body"
+"306","Male",77,"Hockey",21.83,NA,1,"Acute",193,"MSI","Collision","Upper Body"
+"307","Male",77,"Hockey",21.1,NA,0,NA,NA,"Healthy Control","Collision",NA
+"308","Male",77,"Hockey",23.02,NA,0,NA,NA,"Healthy Control","Collision",NA
+"309","Male",78,"Hockey",22.24,69,1,"Acute",248,"SRC","Collision","Upper Body"
+"310","Male",78,"Hockey",23.01,NA,1,"Acute",37,"MSI","Collision","Lower Body"
+"311","Male",78,"Hockey",23.27,NA,1,"Acute",234,"Healthy Control","Collision","Upper Body"
+"312","Male",78,"Hockey",22.16,NA,1,"Acute",246,"Healthy Control","Collision","Upper Body"
+"313","Male",79,"Hockey",22.68,12,0,NA,NA,"SRC","Collision",NA
+"314","Male",79,"Hockey",22.37,NA,1,"Acute",267,"MSI","Collision","Upper Body"
+"315","Male",79,"Hockey",21.37,NA,1,"Acute",224,"Healthy Control","Collision","Lower Body"
+"316","Male",79,"Hockey",21.38,NA,0,NA,NA,"Healthy Control","Collision",NA
+"317","Female",80,"Rowing",25.18,15,1,"Acute",1,"SRC","Non Contact","Upper Body"
+"318","Female",80,"Rowing",20.11,NA,1,"Chronic",149,"MSI","Non Contact","Upper Body"
+"319","Female",80,"Rowing",20.39,NA,1,"Acute",160,"Healthy Control","Non Contact","Upper Body"
+"320","Female",80,"Rowing",21.86,NA,1,"Acute",265,"Healthy Control","Non Contact","Upper Body"
+"321","Female",81,"Swimming",18.42,37,0,NA,NA,"SRC","Non Contact",NA
+"322","Female",81,"Swimming",20.44,NA,1,"Chronic",133,"MSI","Non Contact","Lower Body"
+"323","Female",81,"Swimming",18.84,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"324","Female",81,"Swimming",18.65,NA,1,"Acute",207,"Healthy Control","Non Contact","Lower Body"
+"325","Female",82,"Basketball",18.37,21,1,"Acute",210,"SRC","Contact","Upper Body"
+"326","Female",82,"Volleyball",18.84,NA,0,NA,NA,"MSI","Non Contact",NA
+"327","Female",82,"Basketball",19.12,NA,1,"Chronic",180,"Healthy Control","Contact","Lower Body"
+"328","Female",82,"Basketball",22.61,NA,1,"Acute",185,"Healthy Control","Contact","Lower Body"
+"329","Female",83,"Waterpolo",21.05,20,1,"Acute",169,"SRC","Non Contact","Upper Body"
+"330","Female",83,"Fencing",23.46,NA,1,"Chronic",181,"MSI","Non Contact","Lower Body"
+"331","Female",83,"Waterpolo",19.07,NA,1,"Acute",241,"Healthy Control","Non Contact","Upper Body"
+"332","Female",83,"Waterpolo",20.37,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"333","Female",84,"Rugby",21.02,19,1,"Acute",147,"SRC","Collision","Lower Body"
+"334","Female",84,"Rugby",25.54,NA,1,"Acute",334,"MSI","Collision","Lower Body"
+"335","Female",84,"Rugby",18.03,NA,1,"Acute",120,"Healthy Control","Collision","Lower Body"
+"336","Female",84,"Basketball",19.12,NA,1,"Acute",223,"Healthy Control","Contact","Lower Body"
+"337","Female",85,"Rugby",25.78,34,1,"Acute",173,"SRC","Collision","Lower Body"
+"338","Female",85,"Rugby",19.92,NA,0,NA,NA,"MSI","Collision",NA
+"339","Female",85,"Rugby",21.52,NA,1,"Chronic",174,"Healthy Control","Collision","Lower Body"
+"340","Female",85,"Rugby",20.88,NA,1,"Acute",198,"Healthy Control","Collision","Upper Body"
+"341","Male",86,"Football",19.14,7,1,"Acute",34,"SRC","Collision","Upper Body"
+"342","Male",86,"Football",20.96,NA,1,"Acute",12,"MSI","Collision","Upper Body"
+"343","Male",86,"Football",19.92,NA,1,"Acute",9,"Healthy Control","Collision","Upper Body"
+"344","Male",86,"Football",20.56,NA,1,"Acute",16,"Healthy Control","Collision","Upper Body"
+"345","Female",87,"Rugby",21.23,11,1,"Acute",9,"SRC","Collision","Upper Body"
+"346","Female",87,"Rugby",19.42,NA,1,"Acute",285,"MSI","Collision","Lower Body"
+"347","Female",87,"Rugby",20.25,NA,1,"Acute",175,"Healthy Control","Collision","Lower Body"
+"348","Female",87,"Rugby",20.45,NA,1,"Chronic",189,"Healthy Control","Collision","Lower Body"
+"349","Male",88,"Rugby",17.86,68,1,"Acute",264,"SRC","Collision","Lower Body"
+"350","Male",88,"Rugby",21.06,NA,1,"Chronic",247,"MSI","Collision","Lower Body"
+"351","Male",88,"Rugby",19.29,NA,1,"Acute",254,"Healthy Control","Collision","Lower Body"
+"352","Male",88,"Football",19.67,NA,1,"Acute",86,"Healthy Control","Collision","Lower Body"
+"353","Female",89,"Soccer",20.06,17,1,"Acute",154,"SRC","Contact","Upper Body"
+"354","Female",89,"Soccer",18.73,NA,0,NA,NA,"MSI","Contact",NA
+"355","Female",89,"Soccer",19.09,NA,1,"Acute",306,"Healthy Control","Contact","Lower Body"
+"356","Female",89,"Soccer",21.64,NA,0,NA,NA,"Healthy Control","Contact",NA
+"357","Male",90,"Volleyball",19.87,92,1,"Acute",26,"SRC","Non Contact","Lower Body"
+"358","Male",90,"Track and Field",20.19,NA,0,NA,NA,"MSI","Non Contact",NA
+"359","Male",90,"Volleyball",19.15,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"360","Male",90,"Volleyball",20.72,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"361","Female",91,"Rugby",19.07,13,1,"Acute",154,"SRC","Collision","Lower Body"
+"362","Female",91,"Rugby",19.3,NA,1,"Acute",306,"MSI","Collision","Lower Body"
+"363","Female",91,"Rugby",18.15,NA,0,NA,NA,"Healthy Control","Collision",NA
+"364","Female",91,"Rugby",20.3,NA,1,"Acute",22,"Healthy Control","Collision","Lower Body"
+"365","Female",92,"Tennis",18.51,357,1,"Chronic",143,"SRC","Non Contact","Lower Body"
+"366","Female",92,"Tennis",18.77,NA,0,NA,NA,"MSI","Non Contact",NA
+"367","Female",92,"Tennis",17.78,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"368","Female",92,"Tennis",26.77,NA,1,"Chronic",78,"Healthy Control","Non Contact","Upper Body"
+"369","Male",93,"Rugby",17.97,90,1,"Acute",30,"SRC","Collision","Upper Body"
+"370","Male",93,"Rugby",21.24,NA,1,"Acute",218,"MSI","Collision","Upper Body"
+"371","Male",93,"Rugby",20.04,NA,0,NA,NA,"Healthy Control","Collision",NA
+"372","Male",93,"Rugby",19.92,NA,0,NA,NA,"Healthy Control","Collision",NA
+"373","Male",94,"Hockey",21.74,77,1,"Acute",244,"SRC","Collision","Lower Body"
+"374","Male",94,"Hockey",24.78,NA,1,"Acute",12,"MSI","Collision","Upper Body"
+"375","Male",94,"Hockey",22.2,NA,0,NA,NA,"Healthy Control","Collision",NA
+"376","Male",94,"Hockey",21.31,NA,0,NA,NA,"Healthy Control","Collision",NA
+"377","Male",95,"Rugby",23.41,20,1,"Acute",1,"SRC","Collision","Upper Body"
+"378","Male",95,"Rugby",20.35,NA,0,NA,NA,"MSI","Collision",NA
+"379","Male",95,"Rugby",18.63,NA,1,"Acute",327,"Healthy Control","Collision","Upper Body"
+"380","Male",95,"Rugby",19.15,NA,0,NA,NA,"Healthy Control","Collision",NA
+"381","Female",96,"Hockey",17.98,27,0,NA,NA,"SRC","Contact",NA
+"382","Female",96,"Hockey",18.67,NA,1,"Acute",38,"MSI","Contact","Lower Body"
+"383","Female",96,"Hockey",19.76,NA,1,"Acute",72,"Healthy Control","Contact","Lower Body"
+"384","Female",96,"Hockey",21.07,NA,1,"Acute",338,"Healthy Control","Contact","Upper Body"
+"385","Male",97,"Track and Field",18.35,34,1,"Chronic",289,"SRC","Non Contact","Upper Body"
+"386","Male",97,"Track and Field",18.95,NA,0,NA,NA,"MSI","Non Contact",NA
+"387","Male",97,"Track and Field",20.81,NA,1,"Acute",296,"Healthy Control","Non Contact","Lower Body"
+"388","Male",97,"Track and Field",19.93,NA,1,"Acute",304,"Healthy Control","Non Contact","Upper Body"
+"389","Female",98,"Figure Skating",19.47,17,0,NA,NA,"SRC","Non Contact",NA
+"390","Female",98,"Figure Skating",20.3,NA,0,NA,NA,"MSI","Non Contact",NA
+"391","Female",98,"Figure Skating",21.87,NA,0,NA,NA,"Healthy Control","Non Contact",NA
+"392","Female",98,"Figure Skating",18.65,NA,0,NA,NA,"Healthy Control","Non Contact",NA
